@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="itom-mvn-hcm-group" />
+      <option name="name" value="itom-mvn-hcm-group" />
+      <option name="url" value="https://orgartifactory.swinfra.net:443/artifactory/itom-mvn-hcm-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="itom-mvn-ext-release" />
+      <option name="name" value="itom-mvn-ext-release" />
+      <option name="url" value="https://orgartifactory.swinfra.net:443/artifactory/itom-mvn-ext-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ss-mvn-autopass-release" />
+      <option name="name" value="ss-mvn-autopass-release" />
+      <option name="url" value="https://orgartifactory.swinfra.net:443/artifactory/ss-mvn-autopass-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="itom-mvn-sma-group" />
+      <option name="name" value="itom-mvn-sma-group" />
+      <option name="url" value="https://orgartifactory.swinfra.net:443/artifactory/itom-mvn-sma-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="csa-packages.atlassian" />
+      <option name="name" value="csa-packages.atlassian" />
+      <option name="url" value="https://packages.atlassian.com/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sonatype-flexgroup" />
+      <option name="name" value="sonatype-flexgroup" />
+      <option name="url" value="https://repository.sonatype.org/content/groups/flexgroup/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ss-mvn-autopass-snapshot" />
+      <option name="name" value="ss-mvn-autopass-snapshot" />
+      <option name="url" value="https://orgartifactory.swinfra.net:443/artifactory/ss-mvn-autopass-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="itom-content-mvn-releases" />
+      <option name="name" value="itom-content-mvn-releases" />
+      <option name="url" value="https://orgartifactory.swinfra.net:443/artifactory/itom-content-mvn-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="csa-oo-contents" />
+      <option name="name" value="csa-oo-contents" />
+      <option name="url" value="https://oo-release-nexus-ore.itom.aws.swinfra.net/nexus/content/groups/oo-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oo-content-snapshot" />
+      <option name="name" value="oo-content-snapshot" />
+      <option name="url" value="https://oo-content-nexus-ore.itom.aws.swinfra.net/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jahia" />
+      <option name="name" value="jahia" />
+      <option name="url" value="https://maven.jahia.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oo-content-release" />
+      <option name="name" value="oo-content-release" />
+      <option name="url" value="https://oo-content-nexus-ore.itom.aws.swinfra.net/nexus/content/repositories/releases/" />
+    </remote-repository>
+  </component>
+</project>
